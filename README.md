@@ -1,5 +1,5 @@
 Introduction
-
+ 
 These are high-level guidelines for writing test cases. How to actually interact with the system under test is out of the scope of this document.
 Most important guideline is keeping test cases as easy to understand as possible for people familiar with the domain.
 See also related Dos and Don'ts slides.
